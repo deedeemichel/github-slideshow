@@ -2,7 +2,7 @@
 3.	---
 4.	
 5.	Do what hurts. If it hurts, do it more often
-6.	
+6.	Do it, Try it, Fix it!
 7.	title: "Welcome to our second slide!"
 8.	
 9.	---
